@@ -1,4 +1,4 @@
-package siwngs;
+package chatapp;
 
 import javax.swing.*;
 import java.awt.*;
@@ -180,3 +180,4 @@ public class client  implements ActionListener {
         }
     }
 }
+
