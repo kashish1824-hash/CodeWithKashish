@@ -1,4 +1,4 @@
-package siwngs;
+package chatapp;
 
 import javax.swing.*;
 import java.awt.*;
@@ -173,3 +173,4 @@ public class server extends JFrame implements ActionListener {
         }
     }
 }
+
